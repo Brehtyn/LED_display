@@ -1,0 +1,5 @@
+- Arduino Leonardo ETH (or similar)
+- generic WS-esq 3pin LED Strip
+- ~1k ohm resistors 
+- generic 2 pin Piezo buzzer
+- Touch sensor module TTP223B
